@@ -1,7 +1,7 @@
 # 📝 WINDOWS 11 NotPad
 
 <div align="center">
-
+<img src="img/Dark_Mode.png" alt="WIN11-NotPad Banner" width="100%">
 <div align="center">
 
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
