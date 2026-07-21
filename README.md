@@ -247,8 +247,8 @@ WIN11-NotPad/
 ### Prerequisites
 
 * **Operating System:** Windows 10 or Windows 11 (Recommended)
-* **IDE:** [Visual Studio 2022](https://visualstudio.microsoft.com/) (Version 17.0 or higher)
-* **Workload:** `.NET desktop development`
+* **IDE:** [Visual Studio 2022 or 2026](https://visualstudio.microsoft.com/) Created By VS2026
+* **Workload:** `.NET FrameWork desktop development`
 
 ### Building from Source
 
