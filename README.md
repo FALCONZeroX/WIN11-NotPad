@@ -223,28 +223,26 @@ void DarkMode()
 
 ## 📂 Project Structure
 
-```
+```text
 WIN11-NotPad/
 │
-├── Properties/
-│   ├── Resources.resx          # Binary resource mappings (Fonts, Icons)
-│   └── Settings.settings       # User runtime configurations
+├── Properties/                     # Application properties & resource metadata
+├── Resources/                      # Embedded application resources (Fonts, Images)
+├── Round Panel & Button/           # Custom UI controls & rounded component libraries
+├── img/                            # Repository screenshots for documentation (Light_Mode, Dark_Mode)
 │
-├── Controls/
-│   └── FRoundButton.cs         # Custom vector-rendered rounded button control
-│
-├── Assets/
-│   └── Fonts/                  # Raw icon font packages
-│
-├── Screenshots/
-│   ├── dark-mode.png           # Dark mode preview screenshot
-│   └── light-mode.png          # Light mode preview screenshot
-│
-├── frmNotePad.cs               # Main application form logic & lifecycle
-├── frmNotePad.Designer.cs      # Auto-generated UI layout components
-├── Program.cs                  # Application bootstrap entry point
-├── WIN11-NotPad.sln            # Visual Studio Solution File
-└── README.md                   # Project documentation
+├── .gitignore                      # Visual Studio git ignore configuration
+├── App.config                      # Application runtime configuration settings
+├── LICENSE                         # MIT License documentation
+├── NotePad.ico                     # Application window & executable icon
+├── Program.cs                      # Main application bootstrap entry point
+├── README.md                       # Repository documentation & guide
+├── WIN11 NotePad.slnx              # Visual Studio Solution File
+├── WIN11 Notpad.csproj             # C# Project configuration file
+├── app.manifest                    # Application manifest file (OS compatibility & DPI settings)
+├── frmNotePad.Designer.cs         # Auto-generated WinForms designer code
+├── frmNotePad.cs                   # Main Notepad logic & event handlers
+└── frmNotePad.resx                 # Form-level localized resource container
 
 ```
 
