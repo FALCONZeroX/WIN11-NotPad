@@ -2,11 +2,21 @@
 
 <div align="center">
 
+<div align="center">
+
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Windows Forms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  
+  <br />
+
+  ![UI Design](https://img.shields.io/badge/UI%2FX-Windows%2011%20Style-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
   ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
+  ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+  ![Repo Size](https://img.shields.io/github/repo-size/FALCONZeroX/WIN11-NotPad?style=for-the-badge&color=blue)
+
+</div>
 
   <p align="center">
     <b>A modern, high-performance, Windows 11-inspired custom text editor built with C# and WinForms.</b>
