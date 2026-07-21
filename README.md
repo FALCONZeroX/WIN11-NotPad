@@ -1,4 +1,4 @@
-# 📝 WINDOWS11-NotPad
+# 📝 WINDOWS 11 NotPad
 
 <div align="center">
 
