@@ -9,8 +9,6 @@
   ![Windows Forms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   
-  <br />
-
   ![UI Design](https://img.shields.io/badge/UI%2FX-Windows%2011%20Style-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
   ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
   ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
