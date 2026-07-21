@@ -1,4 +1,4 @@
-# 📝 WIN11-NotPad (FalconPad)
+# 📝 WINDOWS11-NotPad
 
 <div align="center">
 
