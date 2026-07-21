@@ -191,8 +191,8 @@ void DarkMode()
 ## 🖼 UI Showcase
 
 | Dark Theme (Windows 11 Style) | Light Theme (Clean Palette) |
-| --- | --- |
-|  |  |
+| :---: | :---: |
+| <img src="img/Dark_Mode.png" width="450" alt="Dark Mode"> | <img src="img/Light_Mode.png" width="450" alt="Light Mode"> |
 
 ---
 
