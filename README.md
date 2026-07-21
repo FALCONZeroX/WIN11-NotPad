@@ -1,7 +1,6 @@
 # 📝 WINDOWS 11 NotPad
 
 <div align="center">
-<img src="img/Dark_Mode.png" alt="WIN11-NotPad Banner" width="100%">
 <div align="center">
 
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -15,6 +14,7 @@
   ![Repo Size](https://img.shields.io/github/repo-size/FALCONZeroX/WIN11-NotPad?style=for-the-badge&color=blue)
 
 </div>
+<img src="img/Dark_Mode.png" alt="WIN11-NotPad Banner" width="100%">
 
   <p align="center">
     <b>A modern, high-performance, Windows 11-inspired custom text editor built with C# and WinForms.</b>
